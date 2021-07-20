@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 54f0d9e3fbef1bf4788dadc79fe3d818
+  m_SerializeEntries:
+  - m_GUID: c57eaa16716ce6c49b47c389884431ee
+    m_Address: Assets/Prefabs/Characters/MainCharacter.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ca3ef62d401d3764794a20dc64b7f3be
+    m_Address: Assets/Prefabs/Characters/NPC_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c36f3f0a8b1c5d844b4405adb7b2aab7
+    m_Address: Assets/Prefabs/Characters/NPC_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4ae9fa3a0e19d6f4e92297a349de3abb
+    m_Address: Assets/Prefabs/Characters/NPC_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ca39e116adec0004c920282b684885a1
+    m_Address: Assets/Prefabs/Projectiles/Projectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3aebda50805193b47bf25e8281201a95
+    m_Address: Assets/Prefabs/Characters/Fleet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7a32237510f08e64dbccb74f95c68076, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dcae3ea56888f4846bb987218e7f2848, type: 2}
+    - {fileID: 11400000, guid: 70bd65acecd92c846b62499d294b52f0, type: 2}

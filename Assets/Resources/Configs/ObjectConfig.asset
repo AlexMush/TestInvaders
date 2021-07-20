@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7afaea6f45714d54a37c0cbf38d220b3, type: 3}
+  m_Name: ObjectConfig
+  m_EditorClassIdentifier: 
+  ObjectReferences:
+  - ObjectType: 0
+    AssetReference:
+      m_AssetGUID: c57eaa16716ce6c49b47c389884431ee
+      m_SubObjectName: 
+      m_SubObjectType: 
+  - ObjectType: 1
+    AssetReference:
+      m_AssetGUID: ca3ef62d401d3764794a20dc64b7f3be
+      m_SubObjectName: 
+      m_SubObjectType: 
+  - ObjectType: 2
+    AssetReference:
+      m_AssetGUID: c36f3f0a8b1c5d844b4405adb7b2aab7
+      m_SubObjectName: 
+      m_SubObjectType: 
+  - ObjectType: 3
+    AssetReference:
+      m_AssetGUID: 4ae9fa3a0e19d6f4e92297a349de3abb
+      m_SubObjectName: 
+      m_SubObjectType: 
+  - ObjectType: 5
+    AssetReference:
+      m_AssetGUID: ca39e116adec0004c920282b684885a1
+      m_SubObjectName: 
+      m_SubObjectType: 
+  - ObjectType: 4
+    AssetReference:
+      m_AssetGUID: 3aebda50805193b47bf25e8281201a95
+      m_SubObjectName: 
+      m_SubObjectType: 
+  MaxPoolSize: 50
