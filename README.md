@@ -1,4 +1,3 @@
 # Controls
 
-move - arrows or A, D to move;
-shoot - space.
+Arrows or A, D to move, space to shoot.
